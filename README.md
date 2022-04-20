@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlesbthomas
+### 👋 Hi, I’m @charlesbthomas
 
 I'm a Sr. Software Engineer and Software Architect based out of Nashville, TN!
 
