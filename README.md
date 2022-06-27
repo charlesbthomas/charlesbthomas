@@ -8,7 +8,7 @@ Before all this, I went to school at Tennessee Tech University where I studied C
 
 
 - 👀 I’m interested in ... Scala, Node.js, React, Functional Programming
-- 🌱 I’m currently learning ... Functional Effect Systems with Fibers (ZIO, Cats Effect, Project Loom)
+- 🌱 I’m currently learning ... Rust, Functional Effect Systems with Fibers (ZIO, Cats Effect, Project Loom)
 - 📫 How to reach me ... charliethomas.dev
 
 <!---
