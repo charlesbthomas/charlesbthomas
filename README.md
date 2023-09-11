@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based out of Nashville, TN!
 
-Currently, I work as a Staff Software engineer at Imagine Pediatrics, helping kids with complex medical conditions get the care they deserve. I'm passionate about using the best methodologies, architectures, and technology to build awesome tools for people to use and enjoy, all with an awesome team. Today, that means I am using Scala, AWS, Typescript, React and other awesome tech!
+Currently, I work as a Staff Software Engineer at Imagine Pediatrics, helping kids with complex medical conditions get the care they deserve. I'm passionate about using the best methodologies, architectures, and technology to build awesome tools for people to use and enjoy, all with an awesome team. Today, that means I am using Scala, AWS, Typescript, React and other awesome tech!
 
 Before all this, I went to school at Tennessee Tech University where I studied Computer Engineering and met my wife, Kelsey. Outside of work I enjoy gaming 🎮 , playing guitar 🎸, and eating Thai food 🍛.
 
