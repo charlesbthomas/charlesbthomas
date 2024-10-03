@@ -2,13 +2,10 @@
 
 I'm a Software Engineer based out of Nashville, TN!
 
-Currently, I work as a Staff Software Engineer at Imagine Pediatrics, helping kids with complex medical conditions get virtual care. I'm passionate about using the best methodologies, architectures, and technology to build awesome tools for people to use and enjoy, all with an awesome team. Today, that means I am using Scala, AWS, Typescript, React and other awesome tech!
+Currently, I work as a Senior Backend Software Engineer at Machinify. I'm all about building good software with the best tool for the job.
 
-Before all this, I went to school at Tennessee Tech University where I studied Computer Engineering and met my wife, Kelsey. Outside of work I enjoy gaming 🎮 , playing guitar 🎸, and eating Thai food 🍛.
-
-
-- 👀 I’m interested in ... Scala, Node.js, React, Functional Programming
-- 🌱 I’m currently learning ... Rust, Functional Effect Systems with Fibers (ZIO, Cats Effect, Project Loom)
+- 👀 I’m interested in ... Scala, Functional Programming, Rust, C++, Systems Programming
+- 🌱 I’m currently learning ... Lower level systems languages like Rust and C++
 - 📫 How to reach me ... charliethomas.dev
 
 <!---
