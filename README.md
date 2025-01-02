@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based out of Nashville, TN!
 
-Currently, I work as a Senior Backend Software Engineer at Machinify. I'm all about building good software with the best tool for the job.
+Currently, I work as a Senior Backend Software Engineer at Machinify.
 
 - 👀 I’m interested in ... Scala, Functional Programming, Rust, C++, Systems Programming
 - 🌱 I’m currently learning ... Lower level systems languages like Rust and C++
